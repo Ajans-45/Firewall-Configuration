@@ -72,7 +72,7 @@ Screenshots included in screenshots/ folder:
 
 3.  In Windows allowing telnet port 22 and bloacking telnet 23
  
-##Firewall Filtering Summary
+## Firewall Filtering Summary
 
 A firewall filters traffic based on pre-configured rules to allow, block, or restrict network connections.
 Rules can be set based on:
@@ -87,5 +87,5 @@ Protocol (TCP/UDP)
 
 It is a critical component of system security to prevent unauthorized access.
 
-##Author
+## Author
 **S.Ajans – Cybersecurity Intern**
