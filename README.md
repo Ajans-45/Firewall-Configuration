@@ -55,7 +55,7 @@ Configure and test basic firewall rules to allow or block traffic.
 4. **Test using Telnet**
    ```powershell
    telnet localhost 23
-```
+   ```
 5. **Allow SSH (Port 22)**
 
    - New Rule → Port → TCP → Specific local port: 22 → Allow connection.
